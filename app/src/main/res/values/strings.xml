@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="heightString">Enter your height in meter</string>
+    <string name="weightString">Enter your weight in KG</string>
+    <string name="btnText">Calculate BMI</string>
+    <string name="resultText">Result</string>
+    <string name="resultOverweight">You are OverWeight</string>
+    <string name="resultUnderWeight">You are UnderWeight</string>
+    <string name="resultFit">You are Fit</string>
+</resources>
